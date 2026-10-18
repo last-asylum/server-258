@@ -18,9 +18,7 @@ Players without an alliance are open prey!
 ## Cross-Server Cooperation
 
 - Server #259: same rules apply as to our server
-- Server #257: do not rob caravans
-
-[To be continued...]
+- Server #257: same rules apply as to our server
 
 ## Kill On Sight orders
 
