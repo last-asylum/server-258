@@ -11,6 +11,8 @@ Welcome to the Skull Guild! Please note the following:
 5. Exchange items at the Alliance Shop weekly
 6. Please rename yourself from "Doctor..." to something meaningful and relatable for human "consumption"! 😎
 
+We recommend putting shields up every week from Saturday evening to Sunday morning - so there is protection against potential attacks from other servers' players.
+
 ## Roles:
 
 |Role              |Description                                 |
