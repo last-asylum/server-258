@@ -18,7 +18,7 @@ Players without an alliance are open prey!
 ## Cross-Server Cooperation
 
 - Server #259: same rules apply as to our server
-- Server #257: DO NOT attack or rob alliance caravans - individual caravans and secret (black) operations can be looted.
+- Server #257: DO NOT attack players or rob alliance caravans (the big ones) - individual caravans and secret (black) operations can be looted.
 
 ## Kill On Sight orders
 
