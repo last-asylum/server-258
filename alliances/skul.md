@@ -13,6 +13,10 @@ Welcome to the Skull Guild! Please note the following:
 
 We recommend putting shields up every week from Saturday evening to Sunday morning - so there is protection against potential attacks from other servers' players.
 
+## Important:
+
+Please follow the grid layout we've set up at the Alliance Assembly Point!
+
 ## Roles:
 
 |Role              |Description                                 |
@@ -35,7 +39,8 @@ Open for suggestions and discussion but the current guideline is the following:
 
 ## New joiners:
 
-Should be moved to R2.
+- move close to the Alliance Assembly Point,
+- promote to R2.
 
 ## Inactivity:
 
