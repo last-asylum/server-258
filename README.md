@@ -44,6 +44,5 @@ via QR Code: <img src="server-258.png" width="100" alt="Server #258 QR Code">
 
 ## Resources
 1. [Server Alliances](#alliances)
-2. [Server "Kill On Sight" Orders](kos.md)
-3. [Game Wiki](https://wiki-last-asylum.com/en)
-4. [Game Website](https://www.last-asylum.com/)
+2. [Game Wiki](https://wiki-last-asylum.com/en)
+3. [Game Website](https://www.last-asylum.com/)
