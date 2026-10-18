@@ -1,6 +1,41 @@
 # Server #258
 Last Asylum: Plague - Server #258 info
 
+## Rules
+
+**DO NOT** ...
+- attack,
+- scout,
+- rob caravans,
+- plunder secret (black) operations
+
+of players that are members of any alliance on the same server (#258).
+
+Exceptions are anyone with a [Kill On Sight Order](kos.md) on against them.
+
+Players without an alliance are open prey!
+
+## Cross-Server Cooperation
+
+- Server #259: same rules apply as to our server
+- Server #257: do not rob caravans
+
+[To be continued...]
+
+## Kill On Sight orders
+
+This order usually happens because of unresolved server rules violations. Burn these alliances if you see them.
+
+#### Alliances:
+
+- [Ялуу] Ялaxa
+
+#### Players:
+- 
+
+## Active Alliances
+- [[Skul] Skull](alliances/skul.md)
+
 ## Share repository
 
 via link: https://bit.ly/4i04L9S
@@ -8,11 +43,7 @@ via link: https://bit.ly/4i04L9S
 via QR Code: <img src="server-258.png" width="100" alt="Server #258 QR Code">
 
 ## Resources
-1. [Server Rules](rules.md)
-2. [Server Alliances](#alliances)
-3. [Server "Kill On Sight" Orders](kos.md)
-4. [Game Wiki](https://wiki-last-asylum.com/en)
-5. [Game Website](https://www.last-asylum.com/)
-
-## Alliances
-- [[Skul] Skull](alliances/skul.md)
+1. [Server Alliances](#alliances)
+2. [Server "Kill On Sight" Orders](kos.md)
+3. [Game Wiki](https://wiki-last-asylum.com/en)
+4. [Game Website](https://www.last-asylum.com/)
