@@ -8,9 +8,15 @@ Welcome to the Skull Guild! Please note the following:
 4. Rally to defeat Elite Blight for Alliance Gifts
 5. Exchange items at the Alliance Shop weekly
 
-## New joiners:
+## Roles:
 
-Should be moved to R2.
+|Role              |Description                                 |
+|---               |---                                         |
+| **`Leader`**     | oversee all alliance and server operations |
+| **`Diplomat`**   | manage external communications             |
+| **`Goddess`**    | manage internal operations                 |
+| **`Recruiter`**  | manage new joiners and recruit new ones    |
+| **`God of War`** | organise attack & defence                  |
 
 ## Ranks:
 
@@ -21,6 +27,10 @@ Open for suggestions and discussion but the current guideline is the following:
 - **`R3`** - Active players XL: at least Lv.15 and 10 million might
 - **`R2`** - Active, new & small players
 - **`R1`** - Inactive players - everyone who is away for 7 days or more
+
+## New joiners:
+
+Should be moved to R2.
 
 ## Inactivity:
 
