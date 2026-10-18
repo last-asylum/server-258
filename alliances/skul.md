@@ -7,6 +7,7 @@ Welcome to the Skull Guild! Please note the following:
 3. Assist other members to reduce their construction and research time
 4. Rally to defeat Elite Blight for Alliance Gifts
 5. Exchange items at the Alliance Shop weekly
+6. Please rename yourself from "Doctor..." to something meaningful and relatable for human "consumption"! 😎
 
 ## Roles:
 
