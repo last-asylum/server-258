@@ -1,9 +1,10 @@
 # Kill On Sight Orders
 Last Asylum: Plague - Server #258 - Kill On Sight orders
 
-Burn these alliances if you see them - usually because of unresolved server rules violations.
+This order usually happens because of unresolved server rules violations. Burn these alliances if you see them.
 
-## Alliances
+## Alliances:
+
 - [Ялуу] Ялaxa
 
 ## Players:
