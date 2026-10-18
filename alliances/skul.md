@@ -2,9 +2,11 @@
 Last Asylum: Plague - Server #258 - Skul
 
 Welcome to the Skull Guild! Please note the following:
-1. Follow [Server #258 Rules](../rules.md)
+1. Follow [Server #258 Rules](../README.md#rules)
 2. Donate to Alliance Research
-3. Assist other members to reduce their construction and research time
+    - tap Donate (Herbs, right) until no more attempts remain
+    - tap Donate (diamonds, left) if you feel generous
+3. Assist other members to reduce their construction, research, training and healing times
 4. Rally to defeat Elite Blight for Alliance Gifts
 5. Exchange items at the Alliance Shop weekly
 6. Please rename yourself from "Doctor..." to something meaningful and relatable for human "consumption"! 😎
