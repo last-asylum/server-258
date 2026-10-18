@@ -27,6 +27,7 @@ This order usually happens because of unresolved server rules violations. Burn t
 #### Alliances:
 
 - [Ялуу] Ялaxa
+- [AEHH] Eternal Horizon
 
 #### Players:
 - 
