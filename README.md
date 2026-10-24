@@ -40,6 +40,10 @@ via link: https://bit.ly/4i04L9S
 
 via QR Code: <img src="server-258.png" width="100" alt="Server #258 QR Code">
 
+## Discord - Server #258
+
+If you intend to join the Discord for our server: [Kingdom #258](https://discord.gg/NVtnE9jAJE)
+
 ## Resources
 1. [Server Alliances](#alliances)
 2. [Game Wiki](https://wiki-last-asylum.com/en)
