@@ -13,9 +13,7 @@ Welcome to the Skull Guild! Please note the following:
 
 We recommend putting shields up every week from Saturday evening to Sunday morning - so there is protection against potential attacks from other servers' players.
 
-## Important:
-
-Please follow the grid layout we've set up at the Alliance Assembly Point!
+> Important: Please follow the grid layout we've set up at the Alliance Assembly Point!
 
 ## Roles:
 
@@ -37,13 +35,38 @@ Open for suggestions and discussion but the current guideline is the following:
 - **`R2`** - Active, new & small players
 - **`R1`** - Inactive players - everyone who is away for 7 days or more
 
+> Note: Open to suggestions about R1 - R3 levels.
+
 ## New joiners:
 
 - move close to the Alliance Assembly Point,
 - promote to R2.
 
-## Inactivity:
+## Member Management & Review
 
-Being offline for 7 days or more will result in losing rank: member will be demoted to **`R1`**.
+Every Sunday or Monday someone from Alliance Management should review the Alliance Members activity levels and promote/demote accordingly. This is a crucial practice from the alliance's growth perspective since we want to grow and max out the contributions toward Alliance Research.
 
-If you will be away for longer, please let someone from **`R4`** know - alternatively **`Diplomat`**, **`Goddess`**, **`Recruiter`**, *`God of War`** or **`Leader`**
+The review should happen in this order:
+1. Removal
+2. Demotion
+3. Promotion
+
+### Promotion:
+
+When a member reaches the required numbers, member can be promoted to the next level.
+
+> Note: there's only 6 seats in total in R4
+
+### Demotion:
+
+When a member is inactive for 7 days (or more), they should be demoted one (!) level down, giving them a chance to earn their place back next week.
+
+## Removal
+
+If a member is in R1 already with 7 days inactivity at the time of the review process, the member should be removed from the alliance.
+
+> Important Note: currently, we have a fair few inactive members, so we shouldn't remove them all at once, pick the lowest level and remove all from that level. For example, lvl.10 is the lowest so remove lvl 10s only.
+
+## Inactivity, account suspension:
+
+If you will be away for longer or just tired of the game, please let someone from **`R4`** know - alternatively **`Diplomat`**, **`Goddess`**, **`Recruiter`**, *`God of War`** or **`Leader`** so we are aware.
