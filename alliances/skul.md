@@ -69,7 +69,7 @@ When a member is inactive for 7 days (or more), they should be demoted one (!) l
 
 If a member is in R1 already with 7 days inactivity at the time of the review process, the member should be removed from the alliance.
 
-> Important Note: currently, we have a fair few inactive members, so we shouldn't remove them all at once, pick the lowest level and remove all from that level. For example, lvl.10 is the lowest so remove lvl 10s only.
+> ***Important Note***: currently, we have a fair few inactive members, so we shouldn't remove them all at once, pick the lowest level and remove all from that level. For example, lvl.10 is the lowest so remove lvl 10s only.
 
 ## Inactivity, account suspension:
 
