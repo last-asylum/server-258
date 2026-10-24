@@ -35,7 +35,9 @@ Open for suggestions and discussion but the current guideline is the following:
 - **`R2`** - Active, new & small players
 - **`R1`** - Inactive players - everyone who is away for 7 days or more
 
-> Note: Open to suggestions about R1 - R3 levels.
+> Note #1: Open to suggestions about R1 - R3 levels.
+> Note #2: if you no longer wish to hold a management position, please inform the leader to find you a suitable replacement!
+> Note #3: if you wish to switch management position with someone, then agree with the member and just let the know this is what both of you would like to happen.
 
 ## New joiners:
 
